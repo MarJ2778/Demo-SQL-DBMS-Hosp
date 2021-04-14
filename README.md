@@ -7,3 +7,5 @@ The code is uploaded by assignment, showing additions, changes, logical deletion
 Early code will show data duplication, later changed to normalize the database.
 Relationship Foreign keys are also used in later code.
 These are the actual backup files.
+
+To see the code, use the dropdown link to go to the master branch.
